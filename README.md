@@ -6,3 +6,5 @@ and the target T is present in exactly half the trials.
 
 Reaction Time and Performance (correct response or not, given target presence)
 are stored, along with array set size.
+
+The participant data has been stripped from this repository. This version of the project is meant for use as the author's archival version. If you are using any of this repository's resources, at the least, please credit Andrew Vu, programmer in the Sensorimotor Control Lab at York University.
